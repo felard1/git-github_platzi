@@ -15,4 +15,4 @@ Te dejo la lista y mi primera contribución.
 
 |Nombre|Usuario de Github|Red social más utilizada|
 |------|-----------------|------------------------|
-|Amin Espinoza|aminespinoza10|[Linkedin](https://www.linkedin.com/in/aminespinoza/)|
+|Juan Felipe Ardila Acosta|felard1|[Linkedin](linkedin.com/in/felipe-ardila-6b8901249)|
